@@ -45,7 +45,6 @@ Signed,
 - Adam Bradley ([@adamdbradley](https://github.com/adamdbradley)), maintainer of Ionic
 - Addy Osmani ([@addyosmani](https://github.com/addyosmani)), maintainer of TodoMVC
 - Andreas Tolfsen ([@andreastt](https://github.com/andreastt)), maintainer of Selenium
-- Andrew Sampson ([@codeusa](https://github.com/codeusa)), maintainer of Borderless-Gaming
 - Ariya Hidayat ([@ariya](https://github.com/ariya)), maintainer of PhantomJS
 - Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
 - Ben Briggs ([@ben-eb](https://github.com/ben-eb)), maintainer of PostCSS
@@ -57,7 +56,7 @@ Signed,
 - Didier Baquier ([@dbaq](https://github.com/dbaq)), maintainer of Cordova SMS
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
-- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
+- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formerly known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
 - Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
